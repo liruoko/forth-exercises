@@ -26,8 +26,6 @@ l 2 / 0 ?do
     swap 
     s l i - 1 - chars + c!
     s i chars + c!
-    ( 
-    )
 loop 
 ;
 
